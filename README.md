@@ -13,13 +13,13 @@ Infrastructure to build Bitcoin and blockchain-based applications for the next g
 Before you begin you'll need to have Node.js v4 or v0.12 installed. There are several options for installation. One method is to use [nvm](https://github.com/creationix/nvm) to easily switch between different versions, or download directly from [Node.js](https://nodejs.org/).
 
 ```bash
-npm install -g bitcore
+npm install -g joecore
 ```
 
 Spin up a full node and join the network:
 
 ```bash
-npm install -g bitcore
+npm install -g joecore
 bitcored
 ```
 

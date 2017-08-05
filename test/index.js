@@ -23,5 +23,6 @@ describe('Library', function() {
     should.exist(bitcore.Transaction);
     should.exist(bitcore.URI);
     should.exist(bitcore.Unit);
+    should.exist(bitcore.Unit);
   });
 });
